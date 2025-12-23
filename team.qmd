@@ -11,7 +11,7 @@ format: html
 Principal Investigator  
 Mail：hushibin@smart.org.cn
 
-Dr. Hu leads research in artificial intelligence, computer vision, and intelligent robotics. His work focuses on developing robust perception systems for real-world autonomous applications.
+Dr. Hu has been dedicated to studying the mechanisms of nucleic acid immunity, with a focus on the regulation of endogenous double-stranded RNA (dsRNA). His research has uncovered multiple regulatory pathways of endogenous dsRNA and revealed the immune tolerance mechanisms that prevent self-dsRNA from triggering autoimmune responses.
 :::
 :::
 
@@ -23,7 +23,7 @@ Dr. Hu leads research in artificial intelligence, computer vision, and intellige
 Research Assistant  
 Mail: yiyi@smart.org.cn
 
-Dr. Hu leads research in artificial intelligence, computer vision, and intelligent robotics. His work focuses on developing robust perception systems for real-world autonomous applications.
+
 :::
 :::
 
@@ -35,7 +35,7 @@ Dr. Hu leads research in artificial intelligence, computer vision, and intellige
 Lab Manager  
 Mail: diman@smart.org.cn
 
-Dr. Hu leads research in artificial intelligence, computer vision, and intelligent robotics. His work focuses on developing robust perception systems for real-world autonomous applications.
+
 :::
 :::
 
@@ -47,7 +47,7 @@ Dr. Hu leads research in artificial intelligence, computer vision, and intellige
 Graduate Student  
 Mail: shaoshuai@smart.org.cn
 
-Dr. Hu leads research in artificial intelligence, computer vision, and intelligent robotics. His work focuses on developing robust perception systems for real-world autonomous applications.
+
 :::
 :::
 
@@ -59,7 +59,7 @@ Dr. Hu leads research in artificial intelligence, computer vision, and intellige
 Graduate Student  
 Mail: zhengningchen@smart.org.cn
 
-Dr. Hu leads research in artificial intelligence, computer vision, and intelligent robotics. His work focuses on developing robust perception systems for real-world autonomous applications.
+
 :::
 :::
 
@@ -71,7 +71,7 @@ Dr. Hu leads research in artificial intelligence, computer vision, and intellige
 Research Assistant  
 Mail: sunwenjing@smart.org.cn
 
-Dr. Hu leads research in artificial intelligence, computer vision, and intelligent robotics. His work focuses on developing robust perception systems for real-world autonomous applications.
+
 :::
 :::
 
@@ -107,7 +107,7 @@ Dr.Guo’s research focuses on RNA chemical biology and dynamic RNA–protein in
 Postdoctor  
 Mail: suqiang@smart.org.cn
 
-Dr. Hu leads research in artificial intelligence, computer vision, and intelligent robotics. His work focuses on developing robust perception systems for real-world autonomous applications.
+
 :::
 :::
 ---
