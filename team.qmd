@@ -69,7 +69,7 @@ Dr. Hu leads research in artificial intelligence, computer vision, and intellige
 ::: {style="flex: 1;"}
 **Wenjing Sun**  
 Research Assistant  
-Mail: shaoshuai@smart.org.cn
+Mail: sunwenjing@smart.org.cn
 
 Dr. Hu leads research in artificial intelligence, computer vision, and intelligent robotics. His work focuses on developing robust perception systems for real-world autonomous applications.
 :::
@@ -83,19 +83,19 @@ Dr. Hu leads research in artificial intelligence, computer vision, and intellige
 Research Assistant  
 Mail: zhajie@smart.org.cn
 
-Dr. Hu leads research in artificial intelligence, computer vision, and intelligent robotics. His work focuses on developing robust perception systems for real-world autonomous applications.
+Jie's research focuses on the assembly and disassembly of various intracellular granules, exploring their molecular compositions and biological functions. Outside the lab, he enjoys traveling and esports. Recently, he’s suffered ten consecutive losses in Valorant!
 :::
 :::
 
 ::: {style="display: flex; margin-bottom: 0.1rem; align-items: flex-start;"}
-![](images/123.jpg){style="margin-right: 1rem; width: 200px; height: 300px; object-fit: cover;"}
+![](images/guoxuzhen.jpg){style="margin-right: 1rem; width: 200px; height: 300px; object-fit: cover;"}
 
 ::: {style="flex: 1;"}
 **Xuzhen Guo**  
 Assistant research fellow  
 Mail: guoxuzhen@smart.org.cn
 
-Dr. Hu leads research in artificial intelligence, computer vision, and intelligent robotics. His work focuses on developing robust perception systems for real-world autonomous applications.
+Dr.Guo’s research focuses on RNA chemical biology and dynamic RNA–protein interactions. His work aims to develop novel technologies to decipher RNA-binding protein binding patterns and interaction networks.
 :::
 :::
 
