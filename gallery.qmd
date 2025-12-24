@@ -8,13 +8,7 @@ body-class: has-background-image
 ---
 
 ::: {#gallery .row .g-3}
-![](images/teachers day.jpg){.img-fluid .rounded}
-The First Teachers' Day
-![](images/访问学生1.jpg){.img-fluid .rounded}
-The first student to visit
-![](images/在工作.jpg){.img-fluid .rounded}
-Working
-![](images/摆拍.jpg){.img-fluid .rounded}
-staged photography
+![](images/teachers%20day.jpg){.img-fluid .rounded} The First Teachers' Day ![](images/访问学生1.jpg){.img-fluid .rounded} The first student to visit ![](images/在工作.jpg){.img-fluid .rounded} Working ![](images/摆拍.jpg){.img-fluid .rounded} staged photography
 :::
----
+
+------------------------------------------------------------------------

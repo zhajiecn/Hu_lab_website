@@ -3,114 +3,107 @@ title: "Team"
 format: html
 ---
 
-::: {style="display: flex; margin-bottom: 0.1rem; align-items: flex-start;"}
+:::: {style="display: flex; margin-bottom: 0.1rem; align-items: flex-start;"}
 ![](images/PI.png){style="margin-right: 1rem; width: 200px; height: 300px; object-fit: cover;"}
 
 ::: {style="flex: 1;"}
-**Shibin Hu**  
-Principal Investigator  
-Mail：hushibin@smart.org.cn
+**Shibin Hu**\
+Principal Investigator\
+Mail：hushibin\@smart.org.cn
 
 Dr. Hu has been dedicated to studying the mechanisms of nucleic acid immunity, with a focus on the regulation of endogenous double-stranded RNA (dsRNA). His research has uncovered multiple regulatory pathways of endogenous dsRNA and revealed the immune tolerance mechanisms that prevent self-dsRNA from triggering autoimmune responses.
 :::
-:::
+::::
 
-::: {style="display: flex; margin-bottom: 0.1rem; align-items: flex-start;"}
+:::: {style="display: flex; margin-bottom: 0.1rem; align-items: flex-start;"}
 ![](images/yy.jpg){style="margin-right: 1rem; width: 200px; height: 300px; object-fit: cover;"}
 
 ::: {style="flex: 1;"}
-**Yi Yi**  
-Research Assistant  
-Mail: yiyi@smart.org.cn
+**Yi Yi**\
+Research Assistant\
+Mail: yiyi\@smart.org.cn
 
-
+Yi’s research focuses on the molecular mechanisms governing innate immune sensing of RNA and the regulation of antiviral signaling pathways. In particular, he is particularly interested in how RNA-binding proteins modulate MDA5-mediated signaling and downstream type I interferon responses. By combining biochemical, cell biological, and RNA-based approaches, he aims to understand how dysregulation of RNA sensing contributes to aberrant interferon signaling, especially in the context of ADAR1 deficiency and autoinflammatory disease.
 :::
-:::
+::::
 
-::: {style="display: flex; margin-bottom: 0.1rem; align-items: flex-start;"}
+:::: {style="display: flex; margin-bottom: 0.1rem; align-items: flex-start;"}
 ![](images/diman.jpg){style="margin-right: 1rem; width: 200px; height: 300px; object-fit: cover;"}
 
 ::: {style="flex: 1;"}
-**Man Di**  
-Lab Manager  
-Mail: diman@smart.org.cn
-
-
+**Man Di**\
+Lab Manager\
+Mail: diman\@smart.org.cn
 :::
-:::
+::::
 
-::: {style="display: flex; margin-bottom: 0.1rem; align-items: flex-start;"}
+:::: {style="display: flex; margin-bottom: 0.1rem; align-items: flex-start;"}
 ![](images/shaoshuai.jpg){style="margin-right: 1rem; width: 200px; height: 300px; object-fit: cover;"}
 
 ::: {style="flex: 1;"}
-**Shuai Shao**  
-Graduate Student  
-Mail: shaoshuai@smart.org.cn
-
-
+**Shuai Shao**\
+Graduate Student\
+Mail: shaoshuai\@smart.org.cn
 :::
-:::
+::::
 
-::: {style="display: flex; margin-bottom: 0.1rem; align-items: flex-start;"}
+:::: {style="display: flex; margin-bottom: 0.1rem; align-items: flex-start;"}
 ![](images/ZNC.jpg){style="margin-right: 1rem; width: 200px; height: 300px; object-fit: cover;"}
 
 ::: {style="flex: 1;"}
-**Ningchen Zheng**  
-Graduate Student  
-Mail: zhengningchen@smart.org.cn
-
-
+**Ningchen Zheng**\
+Graduate Student\
+Mail: zhengningchen\@smart.org.cn
 :::
-:::
+::::
 
-::: {style="display: flex; margin-bottom: 0.1rem; align-items: flex-start;"}
+:::: {style="display: flex; margin-bottom: 0.1rem; align-items: flex-start;"}
 ![](images/孙文静.jpg){style="margin-right: 1rem; width: 200px; height: 300px; object-fit: cover;"}
 
 ::: {style="flex: 1;"}
-**Wenjing Sun**  
-Research Assistant  
-Mail: sunwenjing@smart.org.cn
-
-
+**Wenjing Sun**\
+Research Assistant\
+Mail: sunwenjing\@smart.org.cn
 :::
-:::
+::::
 
-::: {style="display: flex; margin-bottom: 0.1rem; align-items: flex-start;"}
+:::: {style="display: flex; margin-bottom: 0.1rem; align-items: flex-start;"}
 ![](images/zj.jpg){style="margin-right: 1rem; width: 200px; height: 300px; object-fit: cover;"}
 
 ::: {style="flex: 1;"}
-**Jie Zha**  
-Research Assistant  
-Mail: zhajie@smart.org.cn
+**Jie Zha**\
+Research Assistant\
+Mail: zhajie\@smart.org.cn
 
 Jie's research focuses on the assembly and disassembly of various intracellular granules, exploring their molecular compositions and biological functions. Outside the lab, he enjoys traveling and esports. Recently, he’s suffered ten consecutive losses in Valorant!
 :::
-:::
+::::
 
-::: {style="display: flex; margin-bottom: 0.1rem; align-items: flex-start;"}
+:::: {style="display: flex; margin-bottom: 0.1rem; align-items: flex-start;"}
 ![](images/guoxuzhen.jpg){style="margin-right: 1rem; width: 200px; height: 300px; object-fit: cover;"}
 
 ::: {style="flex: 1;"}
-**Xuzhen Guo**  
-Assistant research fellow  
-Mail: guoxuzhen@smart.org.cn
+**Xuzhen Guo**\
+Assistant research fellow\
+Mail: guoxuzhen\@smart.org.cn
 
 Dr.Guo’s research focuses on RNA chemical biology and dynamic RNA–protein interactions. His work aims to develop novel technologies to decipher RNA-binding protein binding patterns and interaction networks.
 :::
-:::
+::::
 
-::: {style="display: flex; margin-bottom: 0.1rem; align-items: flex-start;"}
+:::: {style="display: flex; margin-bottom: 0.1rem; align-items: flex-start;"}
 ![](images/suqiang.jpg){style="margin-right: 1rem; width: 200px; height: 300px; object-fit: cover;"}
 
 ::: {style="flex: 1;"}
-**Qiang Su**  
-Postdoctor  
-Mail: suqiang@smart.org.cn
+**Qiang Su**\
+Postdoctor\
+Mail: suqiang\@smart.org.cn
 
 Dr. Su’s recent research focuses on RNA biology in diabetes. His work aims to decipher the interactions between RNAs and RNA-binding proteins, and he is also interested in the functions of RNAs localized at the plasma membrane.
 :::
-:::
----
+::::
+
+------------------------------------------------------------------------
 
 **Alumni\
 Baiyao Liu —— SZBL**

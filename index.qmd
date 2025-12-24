@@ -190,6 +190,6 @@ Dr. Hu has been dedicated to studying the mechanisms of nucleic acid immunity, w
 
 2\. Uncover the regulatory mechanism and function of dsRNA nuclear retention mediated by paraspeckles: Dr. Hu's research showed that endogenous dsRNA is retained in the nucleus by paraspeckles, a type of nuclear bodies, and that this retention is regulated by stimuli and mitochondrial stress (Hu et al., Genes and Development, 2015; Wang, Hu et al., Nature Cell Biology, 2018). These findings expanded the understanding of gene expression regulation by systematically elucidating the nuclear retention mechanism of dsRNA, providing a foundation for further investigation into the regulation and function of endogenous dsRNA.
 
-3\. Inventa vector for expressing nucleic acid in the nucleus: Dr. Hu contributed to the development of a novel vector that enables nucleic acids to be expressed and enriched in the nucleus (Yin, Hu et al., Nucleic Acids Research, 2015). This tool has become a valuable resource for studying the functions of nuclear long non-coding RNAs (lncRNAs).
+3\. Invent vector for expressing nucleic acid in the nucleus: Dr. Hu contributed to the development of a novel vector that enables nucleic acids to be expressed and enriched in the nucleus (Yin, Hu et al., Nucleic Acids Research, 2015). This tool has become a valuable resource for studying the functions of nuclear long non-coding RNAs (lncRNAs).
 
-![](images/lab logo.png)
+![](images/lab%20logo.png)
